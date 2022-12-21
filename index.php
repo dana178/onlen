@@ -2156,7 +2156,7 @@
                 <strong>SLOT777</strong>
               </td>
               <td>
-                <a class="button" href="https://heylink.me/" target="_blank" rel="nofollow noopener">Daftar</a>
+                <a class="button" href="https://heylink.me/team40/" target="_blank" rel="nofollow noopener">Daftar</a>
               </td>
             </tr>
             <tr>
@@ -2164,7 +2164,7 @@
                 <strong>SLOT88</strong>
               </td>
               <td>
-                <a class="button" href="https://heylink.me/" target="_blank" rel="nofollow noopener">Daftar</a>
+                <a class="button" href="https://heylink.me/team40/" target="_blank" rel="nofollow noopener">Daftar</a>
               </td>
             </tr>
           </tbody>
